@@ -55,8 +55,8 @@
         }
 
         .copy-icon {
-            width: 16px;
-            height: 16px;
+            width: 24px;
+            height: 12px;
             transition: opacity 0.1s;
         }
 
@@ -204,7 +204,7 @@
 
                     setTimeout(() => {
                         icon.setAttribute('xlink:href', originalIcon);
-                    }, 750);
+                    }, 3500);
                 }).catch(err => {
                     console.error('Failed to copy text:', err);
                 });
