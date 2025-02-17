@@ -12,6 +12,11 @@ The customer has disputed the delivery of their parcel, stating that they have n
 
 
 
+Thank you for your patience. Upon checking, I can see that the previous agent has already raised your concern with the relevant team. Rest assured, the relevant team will investigate this issue as a priority and will update you accordingly. Please do not worry, as we are committed to resolving this matter promptly.
+
+I sincerely apologise for the inconvenience you have faced. This is not the experience we want our customers to have. Please understand that we have raised your concern with the team investigating it. Our dedicated team is prioritising your issue and will ensure your parcel is delivered as soon as possible.
+
+
 I have raised a DI ticket to the SVC for this same.
 
 I have raised a NFS ticket to the SVC for this same.
@@ -21,3 +26,5 @@ Kindly look into this matter and keep the customer updated.
 Regards,
 Vicky
 
+Disposition:
+The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.
