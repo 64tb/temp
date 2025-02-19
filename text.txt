@@ -11,6 +11,7 @@ Thank you for your patience. I can see that your parcel is delayed and has not b
 
 
 
+The customer failed to provide sufficient details for the DPA check.
 
 The parcel is delayed and has not been delivered to the customer. The estimated delivery date has elapsed. Kindly deliver the parcel as soon as possible and keep the customer updated.
 
