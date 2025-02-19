@@ -6,6 +6,10 @@ Thank you for your patience. Upon checking, I can see that your parcel was out f
 
 Additionally, I would request you to add What3Words to your address using the Yodel mobile application, so that our driver can find your location more easily.
 
+Thank you for your patience. I can see that your parcel is delayed and has not been delivered yet. I apologise for the inconvenience. I am raising your concern with the relevant team. They will investigate this issue and get back to you via your registered email.
+
+
+
 
 
 The parcel is delayed and has not been delivered to the customer. The estimated delivery date has elapsed. Kindly deliver the parcel as soon as possible and keep the customer updated.
@@ -19,11 +23,14 @@ The customer has disputed the delivery of their parcel, stating that they have n
 
 
 
+
 Thank you for your patience. I can see that your parcel was out for delivery yesterday, but our driver failed to deliver it. I apologise for the inconvenience. Please be advised that we are working towards delivering your parcel as soon as possible. I would request you to add what3words to your location using the Yodel mobile application so that our driver can find your location.
 
 Thank you for your patience. Upon checking, I can see that the previous agent has already raised your concern with the relevant team. Rest assured, the relevant team will investigate this issue as a priority and will update you accordingly. Please do not worry, as we are committed to resolving this matter promptly.
 
 I sincerely apologise for the inconvenience you have faced. This is not the experience we want our customers to have. Please understand that we have raised your concern with the team investigating it. Our dedicated team is prioritising your issue and will ensure your parcel is delivered as soon as possible.
+
+
 
 
 
