@@ -28,6 +28,9 @@ The customer has disputed the delivery of their parcel, stating that they have n
 
 The customer has disputed the delivery of their parcel, stating that they have not received it and the property visible in the POD is not theirs. Upon reviewing the scans, I have noted that the geo-codes are also broken.
 
+ I apologise for that. I am escalating your issue to the relevant team. They will ensure your parcel is delivered to you as soon as possible and will keep you updated.
+
+
 
 
 
