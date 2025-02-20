@@ -47,5 +47,14 @@ Kindly look into this matter and keep the customer updated.
 Regards,
 Vicky
 
+MPP TKT raise
+"
+Hi team,
+The SVC could not find the parcel, Kindly follow MPP.
+Customer email : 
+
+The SVC could not find the parcel, Kindly follow MPP. I have raised a reverse query for the same.
+"
+
 Disposition:
 The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.
