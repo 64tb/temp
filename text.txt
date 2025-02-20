@@ -57,8 +57,14 @@ MPP TKT raise
 Hi team,
 The SVC could not find the parcel, Kindly follow MPP.
 Customer email : 
-
 The SVC could not find the parcel, Kindly follow MPP. I have raised a reverse query for the same.
+"
+"
+Hi team,
+The EDD has elapsed and the parcel has not been delivered to the customer and the customer is expecting the parcel today. Kindly deliver the parcel as soon as possible and keep the customer updated.
+Customer email : 
+Regards,
+Vicky
 "
 
 Disposition:
