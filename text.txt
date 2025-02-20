@@ -69,7 +69,7 @@ The SVC could not find the parcel, Kindly follow MPP. I have raised a reverse qu
 "
 "
 Hi team,
-The EDD has elapsed and the parcel has not been delivered to the customer and the customer is expecting the parcel today. Kindly deliver the parcel as soon as possible and keep the customer updated.
+The EDD has elapsed and the parcel has not been delivered to the customer, the customer is expecting the parcel. Kindly deliver the parcel as soon as possible and keep the customer updated.
 Customer email : 
 Regards,
 Vicky
