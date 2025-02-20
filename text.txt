@@ -79,4 +79,5 @@ Vicky
 "
 
 Disposition:
+The parcel was on hold, I resumed the parcel delivery using sabre.
 The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.
