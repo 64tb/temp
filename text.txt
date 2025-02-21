@@ -85,5 +85,6 @@ Vicky
 
 Disposition:
 The parcel was on hold, I resumed the parcel delivery using sabre.
+The customer inquired about the current status of their parcel. I informed them that their parcel has not yet arrived in the Yodel network and advised them to contact the sender for further assistance.
 The parcel has been delayed and has not yet reached the customer. The estimated delivery date has passed. I requested that the customer wait a bit longer.
 The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.
