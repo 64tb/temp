@@ -29,15 +29,7 @@ Your parcel is currently in transit and has yet to arrive in the Yodel network. 
 
 You will be notified with the 2-hour delivery window as soon as the parcel is out for delivery.
 
-The customer failed to provide sufficient details for the DPA check.
 
-The parcel is delayed and has not been delivered to the customer. The estimated delivery date has elapsed. Kindly deliver the parcel as soon as possible and keep the customer updated.
-
-The customer has disputed the delivery of their parcel, stating that they have not received it and the property visible in the POD is not theirs.
-
-The customer has disputed the delivery of their parcel, stating that they have not received it. The POD is also non-compliant.
-
-The customer has disputed the delivery of their parcel, stating that they have not received it and the property visible in the POD is not theirs. Upon reviewing the scans, I have noted that the geo-codes are also broken.
 
  I apologise for that. I am escalating your issue to the relevant team. They will ensure your parcel is delivered to you as soon as possible and will keep you updated.
 
@@ -57,11 +49,7 @@ I sincerely apologise for the inconvenience you have faced. This is not the expe
 
 Thank you for confirming that.
 
-I have raised a DI ticket to the SVC for the same.
 
-I have raised a NFS ticket to the SVC for the same.
-
-Kindly look into this matter and keep the customer updated.
 
 Regards,
 Vicky
@@ -76,7 +64,7 @@ MPP TKT raise
 Hi team,
 The SVC could not find the parcel, Kindly follow MPP.
 Customer email : 
-The SVC could not find the parcel, Kindly follow MPP. I have raised a reverse query for the same.
+The SVC could not find the parcel, the SVC stated to follow MPP. I have raised a reverse query for the same.
 "
 "
 Hi team,
@@ -87,7 +75,3 @@ Vicky
 "
 
 Disposition:
-The parcel was on hold, I resumed the parcel delivery using sabre.
-The customer inquired about the current status of their parcel. I informed them that their parcel has not yet arrived in the Yodel network and advised them to contact the sender for further assistance.
-The parcel has been delayed and has not yet reached the customer. The estimated delivery date has passed. I requested that the customer wait a bit longer.
-The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.
