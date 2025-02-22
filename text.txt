@@ -75,3 +75,4 @@ Vicky
 "
 
 Disposition:
+The customer inquired about the current status of their parcel. I informed them that their parcel is being held at the depot, allowing them to pick it up from there.
