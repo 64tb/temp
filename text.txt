@@ -58,6 +58,8 @@ Regards,
 Vicky
 
 
+I have raised a failed collection ticket to the paypoint for the same.
+
 
 
 Thank you for your patience. Upon checking, I can see that your parcel was marked as delivered, but you have not received it. I can confirm that your concern has already been raised with the team, and they are currently investigating the matter. They will reach out to you soon. In the meantime, I would request you to contact the sender regarding this issue.
@@ -66,7 +68,7 @@ MPP TKT raise
 "
 Hi team,
 The SVC could not find the parcel, Kindly follow MPP.
-Customer email : 
+The SVC has marked the parcel as missing. Please follow MPP.
 The SVC could not find the parcel, the SVC stated to follow MPP. I have raised a reverse query for the same.
 "
 "
@@ -78,6 +80,8 @@ Vicky
 "
 
 Disposition:
+The parcel was not available in the store when the customer attempted to collect it.
+The SVC has marked the parcel as missing. I have raised a reverse query to follow MPP.
 The customer inquired about the current status of their parcel. I informed them that their parcel is being held at the depot, allowing them to pick it up from there.
 The customer wished to amend their delivery options. I informed them that they can do so using the Yodel mobile application.
 The customer requested that their parcel be delivered to a secure location. I informed them that the parcel delivery must be attended by someone, as the attended delivery option is enabled.
