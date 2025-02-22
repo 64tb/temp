@@ -89,6 +89,8 @@ Vicky
 Disposition:
 The parcel was not available in the store when the customer attempted to collect it.
 The SVC has marked the parcel as missing. I have raised a reverse query to follow MPP.
+The customer wanted to redirect their parcel to another store. I informed them that they can do it using the Yodel mobile application.
+The customer wanted to redirect their parcel to a Yodel store. I informed them that they can do it using the Yodel mobile application.
 The customer inquired about the current status of their parcel. I informed them that their parcel is being held at the depot, allowing them to pick it up from there.
 The customer wished to amend their delivery options. I informed them that they can do so using the Yodel mobile application.
 The customer requested that their parcel be delivered to a secure location. I informed them that the parcel delivery must be attended by someone, as the attended delivery option is enabled.
