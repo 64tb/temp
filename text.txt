@@ -64,8 +64,9 @@ Dead chat.
 Regards,
 Vicky
 
-
+I have added an reminder to the already raised ticket.
 I have raised a failed collection ticket to the paypoint for the same.
+The EDD has elapsed and the parcel has not been delivered to the customer, the customer is expecting the parcel. Kindly deliver the parcel as soon as possible and keep the customer updated.
 
 
 
@@ -80,7 +81,7 @@ The SVC could not find the parcel, the SVC stated to follow MPP. I have raised a
 "
 "
 Hi team,
-The EDD has elapsed and the parcel has not been delivered to the customer, the customer is expecting the parcel. Kindly deliver the parcel as soon as possible and keep the customer updated.
+
 Customer email : 
 Regards,
 Vicky
