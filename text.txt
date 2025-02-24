@@ -100,6 +100,8 @@ I have raised a failed collection ticket to the paypoint for the same.
 The EDD has elapsed and the parcel has not been delivered to the customer, the customer is expecting the parcel. Kindly deliver the parcel as soon as possible and keep the customer updated.
 
 
+The customer has disputed the delivery of their parcel, stating that they have not received the whole parcel. They stated that there were two items in the parcel any one item has been delivered.
+
 
 Thank you for your patience. Upon checking, I can see that your parcel was marked as delivered, but you have not received it. I can confirm that your concern has already been raised with the team, and they are currently investigating the matter. They will reach out to you soon. In the meantime, I would request you to contact the sender regarding this issue.
 
@@ -119,6 +121,7 @@ Vicky
 "
 
 Disposition:
+The customer has disputed the delivery of their parcel, stating that they have not received the whole parcel. They stated that there were two items in the parcel any one item has been delivered.
 The parcel was not available in the store when the customer attempted to collect it.
 The SVC has marked the parcel as missing. I have raised a reverse query to follow MPP.
 The customer wanted to redirect their parcel to another store. I informed them that they can do it using the Yodel mobile application.
