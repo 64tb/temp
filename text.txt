@@ -123,6 +123,7 @@ Vicky
 Disposition:
 The customer has disputed the delivery of their parcel, stating that they have not received the whole parcel. They stated that there were two items in the parcel any one item has been delivered.
 The parcel was not available in the store when the customer attempted to collect it.
+The customer has disputed the delivery of their parcel, stating that they have not received it. After I shared the POD with them, they disconnected the chat.
 The SVC has marked the parcel as missing. I have raised a reverse query to follow MPP.
 The customer wanted to redirect their parcel to another store. I informed them that they can do it using the Yodel mobile application.
 The customer wanted to redirect their parcel to a Yodel store. I informed them that they can do it using the Yodel mobile application.
