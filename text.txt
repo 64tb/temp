@@ -30,7 +30,7 @@ The customer needed to update their address since their parcel had a scan of add
 
 The customer has disputed the delivery of their parcel, stating that they have not received it. After I shared the POD with them, they found the parcel.
 
-Thank you for your patience. Upon review, I can confirm that there has been no update regarding your parcel since ~. I apologise for the inconvenience. I am escalating your concern to the relevant team. They will investigate this issue and get back to you via your registered email within 24 hours.
+Thank you for your patience. Upon review, I can confirm that there has been no update regarding your parcel since ~. I apologise for the inconvenience. I am escalating your concern to the relevant team. They will investigate this issue and get back to you via your registered email within 48 hours.
 
 
 
