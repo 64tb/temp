@@ -28,7 +28,9 @@ Thank you for your patience. We do not have information on that at the moment. P
 
 Thank you for your patience. I am unable to find any parcel with the provided tracking ID. I would request you to wait until the parcel's information has been updated in our systems.
 
+Thank you for your patience. Upon review, I can confirm that your parcel is scheduled to be collected today. Please wait until the end of the day for its collection. If you have any further questions or concerns, please feel free to let me know.
 
+You will be notified of the 2-hour collection window as soon as the parcel is out for collection.
 
 
 
