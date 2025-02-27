@@ -125,6 +125,10 @@ You can go to the self-service portal and make a claim using the YOD reference n
 
 The customer needed to update their address since their parcel had a address issue. I informed them to update their address using the Yodel mobile application also suggested them to add what3words to their address using the app. Regards, Vicky
 
+The customer has disputed the delivery of their parcel, stating that they have not received it. They mentioned that the wrong parcel was delivered to them.
+
+
+
 
 
 
