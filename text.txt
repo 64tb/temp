@@ -137,6 +137,8 @@ Thank you for your patience. Upon review, I can confirm that your parcel is bein
 
 The customer inquired about the current status of their parcel. I updated them that their parcel is being returned to the sender.
 
+The customer has confirmed the address as correct, and I have also asked them to add what3words to their address. Kindly deliver the parcel as soon as possible and keep the customer updated.
+
 
 
 
