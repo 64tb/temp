@@ -141,7 +141,7 @@ The customer has confirmed the address as correct, and I have also asked them to
 
 Thank you for your patience. Upon inspection, I can confirm that your parcel was marked as delivered today. As you have not received the parcel, I am raising your concern with the relevant team. They will investigate this issue and get back to you on your registered email within 24 hours.
 
-
+Additionally, I would request you to add What3Words to your address using the Yodel mobile application, so that our driver can find your location more easily.
 
 
 
