@@ -129,7 +129,7 @@ The customer has disputed the delivery of their parcel, stating that they have n
 
 Could you please provide more details regarding your concern? This will help us address the issue more effectively.
 
-
+Thank you for your patience. Upon inspection, I can confirm that your parcel was marked as delivered yesterday. Could you please confirm if you have received the parcel? 
 
 
 
