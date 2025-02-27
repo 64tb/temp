@@ -118,7 +118,10 @@ disposition,--
 
 There has been no update regarding the parcel.
 
--------------
+------------------------------------------------------------------------------------------------
+
+
+You can go to the self-service portal and make a claim using the YOD reference number and the email you used when booking the parcel.
 
 
 
