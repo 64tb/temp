@@ -62,6 +62,12 @@ Could you please provide the details of the parcel's contents?
 
 The customer inquired about the current status of their parcel. A ticket had already been raised for their concern. I assured them that the team is investigating the issue and will provide an update via email shortly.
 
+The parcel was not available in the store when the customer attempted to collect it
+
+
+
+
+
 
 
 
