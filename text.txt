@@ -66,6 +66,9 @@ The parcel was not available in the store when the customer attempted to collect
 
  I can see that the driver was out for collection today but was unable to collect the parcel. Please do not worry; I am escalating your concern to the team, and they will rearrange the collection of the parcel.
 
+The customer has disputed the delivery attempt of the parcel stating that the driver didn't attempt the delivery.
+
+The customer has disputed the collection attempt of the parcel stating that the driver didn't attempt the collection. Kindly look into it an rearrange the collection.
 
 
 
