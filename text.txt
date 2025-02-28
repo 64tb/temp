@@ -64,6 +64,7 @@ The customer inquired about the current status of their parcel. A ticket had alr
 
 The parcel was not available in the store when the customer attempted to collect it.
 
+ I can see that the driver was out for collection today but was unable to collect the parcel. Please do not worry; I am escalating your concern to the team, and they will rearrange the collection of the parcel.
 
 
 
