@@ -88,6 +88,11 @@ The postcode does not match the information available in our system. Kindly rech
 
 Please do not worry, I am escalating your concern to the team. They will investigate the matter and ensure your parcel is delivered as soon as possible.
 
+Your parcel is scheduled to be collected today. Please wait until the end of the day for it to be collected.
+
+
+
+
 
 
 
