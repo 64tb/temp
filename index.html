@@ -97,7 +97,7 @@
 
     <h1>Greeting</h1>
     <div class="snippet-group">
-        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. How can I assist you today?</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. How may I assist you today?</p></div>
         <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. I will be assisting you today.</p></div>
     </div>
 
@@ -153,9 +153,9 @@
 
     <h1>Closure</h1>
     <div class="snippet-group">
-        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for reaching out to us. Here is your Tracking Link: ~. To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day ahead.</p></div>
-        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for contacting Yodel Live Chat Support! To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day! </p></div>
-        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for reaching out to Yodel Customer Services. It was a pleasure assisting you today. To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day!</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for reaching out to us. To follow your parcel's journey, visit https://www.yodel.co.uk/track. To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day ahead.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for contacting Yodel Webchat Support! To follow your parcel's journey, visit https://www.yodel.co.uk/track. To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day! </p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for reaching out to Yodel Webchat Support. It was a pleasure assisting you today. To follow your parcel's journey, visit https://www.yodel.co.uk/track. To access more features like Proof of Delivery Images, Push notifications etc, download the Yodel App. Have a great day!</p></div>
     </div>
 
     <h1>What3Words</h1>
@@ -176,7 +176,7 @@
         <h1>Address</h1>
     <div class="snippet-group">
         <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon checking, I can see that your parcel was out for delivery yesterday, but it was not delivered as our driver was unable to locate your address. I apologise for that. I am sharing your full address with you; kindly confirm it.</p></div>
-        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon checking, I can see that your parcel is currently on hold due to an address issue. I am sharing your full address with you; kindly confirm it.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon checking, I can see that your parcel is currently on hold due to an address issue. I am sharing your full address with you; kindly confirm it. Additionally, I would request you to add What3Words to your address using the Yodel mobile application, so that our driver can find your location more easily.</p></div>
         <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">I would request that you update your address using the Yodel mobile application. Additionally, please add What3Words to your address using the Yodel mobile application, so that our driver can find your location more easily.</p></div>
         <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon checking, I can see that your parcel has been delivered to the store and is ready for collection. I am sharing the address of the store with you; kindly confirm it.</p></div>
     </div>
@@ -235,6 +235,13 @@
         <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">You can make a formal complaint at executivecomplaints@yodel.co.uk.</p></div>
     </div>
 
+        <h1>Collection</h1>
+    <div class="snippet-group">
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon review, I can confirm that your parcel is scheduled to be collected today. Please wait until the end of the day for its collection. If you have any further questions or concerns, please feel free to let me know.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for your patience. Upon checking, I can see that our driver was out for collection, but it was not collected as our driver was unable to locate your address. I apologise for that. I am sharing your full address with you; kindly confirm it.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">You will be notified of the 2-hour collection window as soon as the parcel is out for collection.</p></div>
+    </div>
+
     <script>
         document.querySelectorAll('.copy-btn').forEach(button => {
             button.addEventListener('click', (e) => {
@@ -249,7 +256,7 @@
 
                     setTimeout(() => {
                         icon.setAttribute('xlink:href', originalIcon);
-                    }, 2000);
+                    }, 1862);
                 }).catch(err => {
                     console.error('Failed to copy text:', err);
                 });
