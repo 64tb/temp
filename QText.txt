@@ -1,0 +1,228 @@
+
+
+
+Thank you for your patience. We do not have information on that at the moment. Please understand that I have escalated your concern to the team. They will ensure to address your query and provide you with a resolution.
+
+
+
+Thank you for your patience. There is no update on further delivery attempts. I apologise for the inconvenience. I am escalating your concern to the relevant team. They will investigate this issue and get back to you via your registered email within 24 hours.
+
+
+
+
+
+disposition,--
+
+There has been no update regarding the parcel.
+
+------------------------------------------------------------------------------------------------
+
+It might be delivered before the estimated delivery date, but I cannot promise you a specific time or date of delivery.
+
+
+
+You can go to the self-service portal and make a claim using the YOD reference number and the email you used when booking the parcel.
+
+
+
+Could you please provide more details regarding your concern? This will help us address the issue more effectively.
+
+
+
+
+
+
+I am sharing your feedback with the team. They will ensure it does not happen again. Your feedback is valuable to us.
+
+
+
+
+
+
+
+Your parcel has not yet arrived in the Yodel network physically. You will not be able to amend delivery options until the parcel has arrived in the Yodel network.
+
+
+
+
+Thank you for your patience. Upon inspection, I can confirm that three delivery attempts have already been made for your parcel, and we will not be making any further attempts. You will now need to collect the parcel from the depot.
+
+I apologise for the inconvenience. The driver is not permitted to call you. You can track your parcel in real time using the Yodel mobile application and have a better idea of exactly when your parcel is about to be delivered.
+
+
+Please understand that we cannot change the delivery instructions once the delivery is in progress.
+
+
+
+The parcel was not available in the store when the customer attempted to collect it.
+
+ I can see that the driver was out for collection today but was unable to collect the parcel. Please do not worry; I am escalating your concern to the team, and they will rearrange the collection of the parcel.
+
+
+
+
+
+
+
+
+Please confirm the email address you would like to be contacted on.
+
+The postcode does not match the information available in our system. Kindly recheck and send it again.
+
+
+
+
+I apologise for the inconvenience. As your parcel's estimated delivery date is today and it is also scheduled to be delivered today, I would kindly request that you wait until the end of the day for your parcel to be delivered.
+
+Thank you for your patience. I would request that you add delivery instructions using the Yodel mobile application.
+
+The recipient will receive the collection code on their registered email as soon as the parcel is ready for collection.
+
+
+Thank you for your patience. You can redirect the parcel to another store using the Yodel mobile application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regards,
+Vicky
+
+
+
+The customer wanted to redirect their parcel to a Yodel store. I redirected it to their preferred Yodel store using the Yodel tracking website as they were not able to do it using the Yodel mobile application.
+
+I have escalated your issue to the relevant team. They will investigate it and ensure that your parcel delivery is attempted.
+
+In the meantime, I kindly request that you contact your sender regarding this matter.
+
+The collection attempt was failed, I asked the customer to reschedule the collection of their parcel using the self-service portal.
+
+I apologise for the inconvenience. We do not have the liberty to amend the address on behalf of the customer.
+
+Thank you for your patience. I have shared the delivery instructions with the team, and they will update the driver accordingly. 
+
+You will receive the collection code on your registered email as soon as the parcel is ready for collection.
+
+The customer asked for collection code. I informed them that they will receive the collection code on their registered email as soon as the parcel is ready for collection.
+
+Please let me know your concern.
+
+Thank you for your patience. I have initiated the return to sender process for your parcel.
+
+You can track the parcel in real time using the Yodel mobile application.
+
+Could you please confirm if you would like your parcel to be returned to sender?
+
+The customer wanted their parcel to be returned to sender. I initiated RTS using Sabre.
+
+You can add delivery instructions using the Yodel mobile application.
+
+At yodel stores, we accept parcels measuring up to 60x50x50cm, and our maximum allowed parcel weight is 10kg.
+
+The estimated delivery date for your parcel is 7th March, so please wait until then for its arrival.
+
+Thank you for your patience. Upon checking, I can see that your parcel has been delivered to the store and is ready for collection. However, as there was no parcel available in the store, I am raising your concern with the relevant team. They will investigate this issue and get back to you on your registered email within 24 hours.
+
+Thank you for your patience. Upon inspection, I can confirm that your parcel was marked as delivered yesterday. However, as you have not received your parcel, I apologise for that. I am raising your concern with the relevant team. They will investigate this issue and get back to you on your registered email within 24 hours.
+
+I apologise for the inconvenience. Please understand that I am doing my utmost to assist you. The supervisor will also provide the same resolution as I have.
+
+
+The customer's concern has already been raised with the team. I have informed them that the team is investigating their concern and will reach out to them shortly.
+
+I apologise for the inconvenience. I am not permitted to provide any details of such kind. Please let me know if you have any concerns regarding your parcel.
+
+
+Could you please share the receiver's name and postcode, as I am unable to locate your parcel with the provided information.
+
+You will receive the collection code on your registered email ID as soon as the parcel is ready for collection.
+
+The parcel has been delivered to the store, but it is not yet ready for collection. I apologise for the inconvenience. You will be able to collect the parcel only after it is ready for collection.
+
+The customer requested their collection code as they had not yet received it, since their parcel was not ready for collection. I informed them that they will receive the collection code on their registered email ID as soon as the parcel is ready for collection.
+
+The customer has confirmed the address as correct. Kindly look into it and deliver the parcel as soon as possible.
+
+The parcel has been delivered to the store, but it is not yet ready for collection. I asked the customer to wait until the parcel is ready for collection.
+
+I apologise for the inconvenience. I am raising your concern to the relevant team. They will investigate this issue and ensure that your parcel delivery is attempted. Please do not worry, as we are committed to delivering your parcel as soon as possible.
+
+Once the chat concludes, you will be able to download the transcript of the conversation.
+
+Thank you for your patience. Upon checking, I can see that our driver was out for collection, but it was not collected. You need to reschedule the collection of their parcel using the self-service portal.
+
+The customer inquired about the current status of their parcel. I informed them that three delivery attempts have already been made, and they will now need to collect their parcel from the depot.
+
+Thank you for your patience. I would like to inform you that your parcel is being returned to the sender. For further assistance regarding this, you will need to contact the sender directly.
+
+The customer wanted to update their address. I informed them to update their address using the Yodel mobile application. Regards, Vicky
+
+I understand that if you want to collect your parcel from the depot, you can choose to do so using the Yodel mobile application.
+
+Your parcel is an international one, and there are additional procedures we must follow for such parcels. This sometimes results in extra time being needed.
+
+I apologise for the inconvenience. I am sharing the details with you as they are available in the system.
+
+I apologise for the inconvenience. I am raising your concern to the relevant team. They will investigate this issue and deliver your parcel as soon as possible.
+
+You can change your delivery options using the Yodel mobile application.
+
+Your parcel is currently out for delivery, and you cannot change the delivery option midway.
+
+There has been no update regarding the parcel since -. Kindly look into this matter and keep the customer updated.
+
+Thank you for your patience. Upon checking, I can see that your parcel has been delivered to the store and is ready for collection. However, as the store does not have the parcel, I am raising your concern with the relevant team. They will investigate this issue and get back to you via your registered email within 24 hours.
+
+
+The address I shared was provided by the sender.
+
+
+
+The customer wanted to share delivery instructions.
+
+
+I apologise for the inconvenience. I am escalating your concern to the relevant team. They will investigate the issue and ensure that your parcel is delivered successfully.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
