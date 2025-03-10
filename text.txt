@@ -124,25 +124,8 @@ The customer wishes to redirect their parcel to another store (~), as the curren
 
 The customer wished to reschedule the collection of their parcel. I informed them that they could do so via the portal used when booking the parcel.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Regards,
 Vicky
-
-
 
 The customer wanted to redirect their parcel to a Yodel store. I redirected it to their preferred Yodel store using the Yodel tracking website as they were not able to do it using the Yodel mobile application.
 
@@ -244,6 +227,8 @@ Kindly look into it and deliver the parcel as soon as possible.
 
 The customer has disputed the delivery of their parcel, stating that they have not received it. The parcel has been delivered to the wrong address. 
 
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 
 
