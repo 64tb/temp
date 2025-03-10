@@ -230,9 +230,11 @@ The customer has disputed the delivery of their parcel, stating that they have n
 ------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------
 
+You can use the Yodel mobile application to view the proof of delivery.
 
+Thank you for your patience. Upon inspection, I can confirm that your parcel was damaged in transit. For further assistance regarding this matter, you will need to contact the client.
 
-
+I apologise for the inconvenience. You need to contact the client in this scenario for assistance, as further action will be taken according to the client's directions.
 
 
 
