@@ -246,7 +246,7 @@ As we have delivered the parcel to the correct address and provided you with pro
 
 Please understand that we will not be able to assist you further in this matter. You will need to contact the sender regarding this issue.
 
-
+The customer has disputed the delivery of their parcel, asserting that they have not received it. Given that the geo-codes and proof of delivery were accurate, I advised them to contact the sender. Regards, Vicky
 
 
 
