@@ -277,6 +277,7 @@ The customer has disputed the delivery of their parcel, stating that they have n
 
 The latest scan indicates "Hold (Await Advice)." Kindly look into this matter and keep the customer updated.
 
+I am still unable to locate your parcel with the provided information. Could you please share the correct name and postcode of the receiver?
 
 
 
