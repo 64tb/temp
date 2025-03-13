@@ -1,8 +1,6 @@
 Greeting
 
 Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. How may I assist you today?
-
-
 Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. I will be assisting you today.
 
 Hold Statements
@@ -10,92 +8,50 @@ Hold Statements
 Please bear with me for a moment.
 Please let me know your concern.
 Could you please provide more details regarding your concern? This will help us address the issue more effectively.
-
 Let me quickly check this for you. Please bear with me for a moment.
-
-
 Thank you for explaining your issue. Please bear with me for a moment while I check this for you.
-
-
 Please bear with me for a moment while I check this for you.
-
-
 Thank you for providing that information. Please bear with me for a moment while I check this for you.
-
-
 I sincerely apologise for the inconvenience you've experienced. Please allow me a moment so that I can assist you.
-
-
 I sincerely apologise for the inconvenience. It is taking longer than expected. Please allow me a moment so that I may assist you.
-
-
 I am well, thank you for asking. Please bear with me for a moment while I check this for you.
 
 Un-Hold Statements
-
 Thank you for your patience.
-
-
 I apologise for the inconvenience.
 
 Assurance
 
 Please rest assured, we are doing our utmost to ensure your parcel is delivered.
 I apologise for the inconvenience. I am sharing the details with you as they are available in the system.
-
 I'm providing you with the Proof of Delivery. Kindly review it.
-
-
 Thank you for your patience. Upon inspection, I can confirm that your parcel was marked as delivered today. I am providing you with the Proof of Delivery. Kindly review it.
-
 Thank you for your patience. Upon inspection, I can confirm that your parcel was marked as delivered yesterday. Could you please confirm if you have received the parcel? 
-
 Thank you for your patience. Upon review, I can confirm that your parcel is being returned to the sender. For further assistance regarding the parcel, you will need to contact the sender.
-
-
 Thank you for your patience. Upon checking, I can see that your parcel has been delivered to the store and is ready for collection. I am providing you with the collection code; kindly save it.
-
-
 Could you please check with your family members and neighbours to see if they might have received it on your behalf, and confirm back with us?
 
 DPA
 
 To assist you further, I would need you to share the tracking ID of the parcel.
-
 To assist you further, I would need you to share the correct tracking ID of the parcel, as I am unable to locate your parcel with the provided information.
-
 Could you please share the receiver's name and postcode, as I am unable to locate your parcel with the provided information.
 The postcode does not match the information available in our system. Kindly recheck and send it again.
-
-
 Thank you for your patience. To assist you further, I would need you to confirm your registered telephone number. This information will help us verify your account and provide you with the best possible support.
-
-
 Thank you for your patience. To assist you further, I would need you to confirm your correct name and registered email ID. This information will help us verify your account and provide you with the best possible support.
-
-
 Thank you for your patience. To assist you further, I would need you to confirm the recipient's correct name, first line of address, postcode, and registered email ID. This information will help us verify your details and provide you with the best possible support.
-
-
 Thank you for your patience. To assist you further, I would need you to confirm the store's correct name and postcode. This information will help us verify your details and provide you with the best possible support.
-
-
 Thank you for your patience. I am unable to find any parcel with the provided tracking ID. I would request you to wait until the parcel's information has been updated in our systems.
 
 Still Connected
 
 Are we still connected?
-
-
 Since you are not responding, I will have to close the chat. Thank you for reaching out to Yodel Live Chat Support. Have a great day.
 
 Offering Additional Help
 
 Please let me know if there is anything else I can assist you with.
-
-
 I appreciate your patience. Is there anything else I can assist you with?
-
 Please confirm the email address you would like to be contacted on.
 
 Thank you for confirming that.
