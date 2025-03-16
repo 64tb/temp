@@ -3,11 +3,10 @@ Greeting~
 Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. How may I assist you today?
 Hello, ~! Thank you for contacting Yodel Webchat Support. My name is Vicky. I will be assisting you today.
 
-Hold Statements
+Hold Statements~
 
 Please bear with me for a moment.
 Please let me know your concern.
-Could you please provide more details regarding your concern? This will help us address the issue more effectively.
 Let me quickly check this for you. Please bear with me for a moment.
 Thank you for explaining your issue. Please bear with me for a moment while I check this for you.
 Please bear with me for a moment while I check this for you.
@@ -189,7 +188,6 @@ I sincerely apologise for the inconvenience you have faced. This is not the expe
 Complaint~
 
 I apologise for that. The previous message was not intended for you. Please disregard it.
-executivecomplaints@yodel.co.uk
 You can make a formal complaint at executivecomplaints@yodel.co.uk.
 Yodel’s Customer Service number is 0344 755 0117.
 Once this chat ends, you will have the option to download the transcript.
