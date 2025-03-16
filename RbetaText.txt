@@ -1,0 +1,81 @@
+Disposition~
+
+Regards, Vicky
+
+Dead chat. Regards, Vicky
+
+Customer disconnected. Regards, Vicky
+
+Unresponsive customer. Regards, Vicky
+
+The customer failed to provide sufficient details for the DPA check. Regards, Vicky
+
+The customer couldn't provide a working tracking id. Regards, Vicky
+
+The parcel was on hold, I resumed the parcel delivery using sabre. Regards, Vicky
+
+The customer wanted their parcel to be returned to sender. I initiated RTS using Sabre.
+
+The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email. Regards, Vicky
+
+
+Ticket Raise~
+
+Hi team, Customer email : Regards, Vicky
+
+Kindly look into this matter and keep the customer updated.
+
+Kindly look into it and deliver the parcel as soon as possible.
+
+Please investigate this issue and ensure the parcel is delivered at your earliest convenience.
+
+The parcel was not available in the store when the customer attempted to collect it. 
+
+The customer is stating that the parcel is not available in the store. 
+
+The customer has shared delivery instructions. They added ~
+
+The SVC could not find the parcel, Kindly follow MPP.
+
+The SVC has marked the parcel as missing. Please follow MPP.
+
+There has been no update regarding the parcel since -. Kindly look into this matter and keep the customer updated.
+
+The parcel is delayed and has not been delivered to the customer. The estimated delivery date has elapsed. Kindly deliver the parcel as soon as possible and keep the customer updated.
+
+The customer has confirmed the address as correct. Kindly look into it and deliver the parcel as soon as possible.
+
+The customer has confirmed the address as correct, and I have also asked them to add what3words to their address. Kindly deliver the parcel as soon as possible and keep the customer updated.
+
+The customer wishes to redirect their parcel to another store (~), as the current shop is not accepting parcels. Kindly look into this matter and keep the customer updated.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. The POD is also non-compliant.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it and the property visible in the POD is not theirs.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. Upon reviewing the scans, I have noted that the geo-codes are also broken.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. The POD is also non-compliant. Upon reviewing the scans, I have noted that the geo-codes are also broken.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it and the property visible in the POD is not theirs. Upon reviewing the scans, I have noted that the geo-codes are also broken.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. They mentioned that the wrong parcel was delivered to them.
+
+The customer has disputed the delivery of their parcel, stating that they have not received the whole parcel. They stated that there were two items in the parcel and only one item has been delivered.
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. The parcel has been delivered to the wrong address. 
+
+The customer has disputed the delivery of their parcel, stating that they have not received it. They mentioned that they had requested for the parcel not to be left outside and had asked for it to be left with their preferred neighbour. However, the parcel was still left outside, which they consider unsafe.
+
+The customer has disputed the delivery attempt of the parcel stating that the driver didn't attempt the delivery.
+
+The customer has disputed the collection attempt of the parcel stating that the driver didn't attempt the collection. Kindly look into it an rearrange the collection.
+
+The latest scan indicates "Hold (Await Advice)." Kindly look into this matter and keep the customer updated.
+
+
+Complaint~
+
+&
