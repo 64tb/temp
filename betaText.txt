@@ -1,7 +1,7 @@
 Ticket Raise~
 
 
-Hi team, Customer email : Regards, Vicky
+Hi team, Customer email : 
 
 Kindly look into this matter and keep the customer updated.
 
@@ -58,24 +58,21 @@ The latest scan indicates "Hold (Await Advice)." Kindly look into this matter an
 
 Disposition~
 
+Dead chat. 
 
-Regards, Vicky
+Customer disconnected. 
 
-Dead chat. Regards, Vicky
+Unresponsive customer. 
 
-Customer disconnected. Regards, Vicky
+The customer failed to provide sufficient details for the DPA check. 
 
-Unresponsive customer. Regards, Vicky
+The customer couldn't provide a working tracking id. 
 
-The customer failed to provide sufficient details for the DPA check. Regards, Vicky
-
-The customer couldn't provide a working tracking id. Regards, Vicky
-
-The parcel was on hold, I resumed the parcel delivery using sabre. Regards, Vicky
+The parcel was on hold, I resumed the parcel delivery using sabre. 
 
 The customer wanted their parcel to be returned to sender. I initiated RTS using Sabre.
 
-The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email. Regards, Vicky
+The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email. 
 
 
 
